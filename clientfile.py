@@ -2,7 +2,7 @@
 
 import socket
 
-SERVER_IP = '192.168.8.194' #System IP which needs to communicate
+SERVER_IP = '10.0.0.57' #System IP which needs to communicate
 SERVER_PORT = 58106
 
 
