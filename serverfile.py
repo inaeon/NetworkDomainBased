@@ -2,7 +2,7 @@
 import socket
 
 SERVER_IP = '0.0.0.0'
-SERVER_PORT = 65432
+SERVER_PORT = 58106
 
 
 def main():
